@@ -1,0 +1,1 @@
+cmd_/home/parth/Desktop/eldd/ass/day8_2/Module.symvers :=  sed 's/ko$$/o/'  /home/parth/Desktop/eldd/ass/day8_2/modules.order | scripts/mod/modpost -m -a    -o /home/parth/Desktop/eldd/ass/day8_2/Module.symvers -e -i Module.symvers -T - 

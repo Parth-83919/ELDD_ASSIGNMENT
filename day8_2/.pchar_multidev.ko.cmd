@@ -1,0 +1,1 @@
+cmd_/home/parth/Desktop/eldd/ass/day8_2/pchar_multidev.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/parth/Desktop/eldd/ass/day8_2/pchar_multidev.ko /home/parth/Desktop/eldd/ass/day8_2/pchar_multidev.o /home/parth/Desktop/eldd/ass/day8_2/pchar_multidev.mod.o;  true

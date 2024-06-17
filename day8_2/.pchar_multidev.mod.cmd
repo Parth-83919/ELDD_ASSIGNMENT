@@ -1,0 +1,1 @@
+cmd_/home/parth/Desktop/eldd/ass/day8_2/pchar_multidev.mod := printf '%s\n'   pchar_multidev.o | awk '!x[$$0]++ { print("/home/parth/Desktop/eldd/ass/day8_2/"$$0) }' > /home/parth/Desktop/eldd/ass/day8_2/pchar_multidev.mod
