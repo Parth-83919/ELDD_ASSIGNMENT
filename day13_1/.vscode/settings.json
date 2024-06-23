@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "module.h": "c",
+        "fs.h": "c",
+        "device.h": "c",
+        "init.h": "c",
+        "uaccess.h": "c",
+        "kernel.h": "c"
+    }
+}
